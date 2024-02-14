@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+# Lemonade Restuarant table booking app.
+
+This application assists lemonade businesses in managing their booking processes to minimize errors in the restaurant.
+
+## Key Features
+- [ ] Allow users to book for tables
+- [ ] Data persistence 
+- [ ] Works ofline as well as online modes
+- [ ] Installable as a PWA app
+- [ ] User friendly
+- [ ] Extensible via API's
+
+
+## Tech stack
+###  React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
